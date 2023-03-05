@@ -2,7 +2,7 @@
 
 ## Compile and dependency management
 
-Use ```[XMake](https://xmake.io/)``` to manage third-party libraries and build compilation rules.
+Use [XMake](https://xmake.io/) to manage third-party libraries and build compilation rules.
 
 So, you need install xmake on your computer first. you can read this reference [xmake.io](https://xmake.io/#/getting_started).
 
